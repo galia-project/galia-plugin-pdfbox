@@ -1,0 +1,11 @@
+##
+# This file contains all of the configuration keys used by PDFBoxDecoder.
+# Simply copy them into your main application configuration.
+#
+
+#----------------------------------------
+# PDFBoxDecoder
+#----------------------------------------
+
+# Resolution of vector rasterization (of e.g. PDFs) at a scale of 1.
+decoder.PDFBoxDecoder.dpi: 150
